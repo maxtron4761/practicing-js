@@ -1,0 +1,1 @@
+This is a simple javascript project that i have to make in order to get marks for web dev 😭
